@@ -47,4 +47,5 @@ public class ContaTest extends BaseTest {
 		
 		Assert.assertEquals("Já existe uma conta com esse nome!", contasPage.obterMensagemErro());
 	}
+	System.out.println("ola");
 }
